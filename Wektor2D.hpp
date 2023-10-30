@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cmath>
 
 struct Wektor2D
 {
